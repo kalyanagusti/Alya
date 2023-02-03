@@ -1,0 +1,43 @@
+body{
+background: #8DCBE6;
+font-family :sans-serif;
+}
+h2{
+color:#fff;}
+
+th{
+color:dodgerblue;
+background: royalblue;
+font-size : 50 pt;}
+h1{
+color:#000;
+font-size : 50 pt;}
+
+.login{
+padding : 1cm;
+margin : 2cm auto;
+width : 17cm;
+background : #transparent;
+border-radius : 3 px;
+}
+label{
+font-size : 14pt;
+color : black;
+}
+input [type = "text"],
+input [ type = "password"],
+textarea{
+padding : 8px;
+width : 90%;
+background : #efefef;
+border : 0;
+font-size : 10 pt;
+margin : 6px 0px;
+}
+.tombol {
+background : #BAD7E9;
+color : #fff;
+border :0;
+padding : 5px 8px;
+margin: 20 px 0px;
+}
